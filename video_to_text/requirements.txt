@@ -1,0 +1,7 @@
+# 视频语音转文字工具依赖项
+openai-whisper>=20231117
+moviepy>=1.0.3
+torch>=1.13.0
+torchaudio>=0.13.0
+pydub>=0.25.1
+ffmpeg-python>=0.2.0
